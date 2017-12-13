@@ -1,8 +1,9 @@
 <?php
-
+print("hello");
+exit();
 	// Contact
-	$to = 'web-master72@yandex.ru';
-	$subject = 'Subject here...';
+	$to = 'mikeeulphp@gmail.com';
+	$subject = 'jobs';
 
 	if(isset($_POST['c_name']) && isset($_POST['c_email']) && isset($_POST['c_message'])){
 		$name    = $_POST['c_name'];

@@ -179,7 +179,7 @@
 			else {
 				$.ajax({
 					type: 'POST',
-					url: 'assets/php/contactForm.php',
+					url: 'assets/php/mail_handler.php',
 					dataType: 'json',
 					data: {
 						c_email: c_email,
