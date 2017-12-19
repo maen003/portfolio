@@ -526,6 +526,9 @@ textarea.form-control {
 	padding: 0;
 }
 
+.redux {
+	viewBox: 0 0 128 128px;
+}
 /* ---------------------------------------------- /*
  * About
 /* ---------------------------------------------- */
@@ -575,6 +578,7 @@ textarea.form-control {
 	margin: 0 0 15px;
 	padding: 0;
 }
+
 
 /* ---------------------------------------------- /*
  * Portfolio
@@ -927,6 +931,10 @@ button.mfp-close {
 	color: #222;
 }
 
+.navbar-nav {
+	transform:translate(30px)
+}
+
 .navbar-custom .nav li.active,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus,
@@ -960,6 +968,7 @@ button.mfp-close {
 .navbar-custom .navbar-toggle .icon-bar {
 	background: #222;
 }
+
 
 /* ---------------------------------------------- /*
  * Scroll to top
